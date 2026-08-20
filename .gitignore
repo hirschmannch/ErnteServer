@@ -1,0 +1,11 @@
+# Niemals Betriebs- oder Zugangsdaten hochladen
+ernte.db
+*.db
+auth.env
+*.env
+backups/
+update_backup*/
+ernte_export.xlsx
+*.log
+__pycache__/
+*.pyc
